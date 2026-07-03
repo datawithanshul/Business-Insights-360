@@ -209,7 +209,7 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 [View LinkedIn Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
 
 ### 📊 Live Dashboard
-[Open Power BI Dashboard](PASTE_YOUR_POWER_BI_SERVICE_LINK_HERE)
+[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUzNTMyYjItZjUxYy00NGRiLWI1ZjctMjUxYzFjYWQ2YjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 # 🧠 Skills Gained
