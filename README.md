@@ -114,93 +114,109 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tools Used
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- SQL
-- Microsoft Excel
-- Data Modeling
-- Data Visualization
+- **Data Cleaning & Transformation:** Power Query
+- **Data Visualization:** Microsoft Power BI
+- **Data Analysis:** DAX (Data Analysis Expressions)
 
 ---
 
-# 📂 Dataset
+# 💡 Insights
 
-**Domain:** Consumer Electronics
+## 📈 Business Growth & Financial Performance
 
-**Company:** AtliQ Hardware
-
-The project integrates Finance, Sales, Marketing, Customer, Product, and Supply Chain datasets into a centralized analytical dashboard.
-
----
-
-# 📌 Key KPIs
-
-- 💰 Net Sales
-- 📈 Gross Margin %
-- 💵 Net Profit %
-- 🎯 Forecast Accuracy (FCA%)
-- 📦 Net Error
-- 🌍 Market Share
-- 👥 Customer Performance
-- 📊 Product Performance
+- Rapid expansion: **Net Sales** grew approximately **280% (FY 2019)**, **140% (FY 2020)**, **200% (FY 2021)**, and **350% (FY 2022)**.
+- **Net Profit %** has remained negative since FY 2020 due to high operational and marketing expenses, which is typical for a company in its growth phase.
 
 ---
 
-# 📊 Dashboard Views
+## 🌍 Revenue & Market Trends
 
-- 🏠 Home View
-- 💰 Finance View
-- 📈 Sales View
-- 📢 Marketing View
-- 🚚 Supply Chain View
-- 👔 Executive View
-- ℹ️ Info Page
+- **APAC** remained the largest market (FY 2019–FY 2022), led by **India**, while **Latin America** was the smallest.
+- **Amazon** was the top global customer across all years, while **Nova (Austria)** was the smallest customer since FY 2020.
+- The **Notebook** segment achieved the highest revenue growth in every fiscal year but recorded the most negative **Net Profit %** in FY 2022, likely due to increased marketing spending.
+- **Desktop** recorded the lowest growth in FY 2019 and FY 2020, while **Networking** became the weakest-performing segment in FY 2022.
+- **USB Flash Drives** underperformed in FY 2021 and FY 2022, indicating potential product or market challenges.
 
 ---
 
-# 📷 Dashboard Preview
+## 💰 Sales & Customer Insights
 
-## 🏠 Home View
-
-![Home View](Images/01_Home.png)
-
----
-
-## 💰 Finance View
-
-![Finance View](Images/02_Finance_View.png)
+- A flat post-discounting model across all products and customers within each market is significantly reducing **Gross Margin %**. A performance-based discounting strategy by product and customer is recommended to improve profitability.
+- Products such as **AQ 5000 Series Electron 9 5900X**, **AQ MB Elite**, and **AQ Wi Power Dx1** recorded zero sales in FY 2022, likely due to changing demand or product obsolescence.
 
 ---
 
-## 📈 Sales View
+## 🚚 Forecast Accuracy & Supply Chain Efficiency
 
-![Sales View](Images/03_Sales_View.png)
-
----
-
-## 📢 Marketing View
-
-![Marketing View](Images/04_Marketing_View.png)
+- **Forecast Accuracy (FCA%)** dropped from approximately **86% (FY 2019)** to **73% (FY 2020)** due to COVID-19 disruptions but recovered to approximately **80% (FY 2021)** and **81% (FY 2022)**.
+- Excess inventory was a major challenge during FY 2019–FY 2020, whereas stock shortages became the primary issue in FY 2021–FY 2022.
+- The work-from-home trend during FY 2020 caused stock shortages for processors, keyboards, and WiFi extenders.
 
 ---
 
-## 🚚 Supply Chain View
+## 🏆 Competitive Position & Market Share
 
-![Supply Chain View](Images/05_Supply_Chain_View.png)
-
----
-
-## 👔 Executive View
-
-![Executive View](Images/06_Executive_View.png)
+- **AtliQ's PC market share** increased from approximately **1% (FY 2021)** to **6% (FY 2022)**, although **Dale** remained the market leader.
+- **India** emerged as the fastest-growing market, contributing approximately **13% market share** in FY 2022.
+- Among all subzones, **North America** generated the highest revenue in FY 2022, while AtliQ's market penetration remained around **5%**.
 
 ---
 
-## ℹ️ Info Page
+## 🎯 Operational & Strategic Insights
 
-![Info Page](Images/07_Info.png)
+- Sales consistently peaked between **September and December**, driven by festive seasons and year-end promotions.
+- **Retailers** contributed approximately **72%** of total revenue in FY 2022.
+- The **UK** incurred the highest marketing expenses, making it a key area for strategic review, followed by **Germany**, which showed relatively low revenue despite high marketing spending.
 
 ---
+
+# 📝 Recommendations
+
+## 💰 Improve Profitability
+
+- Gradually reduce operational and marketing expenses after capturing significant market share to improve **Net Profit %**.
+- Reevaluate the pricing and cost structure of the **Notebook** segment to improve profitability.
+- Shift from a flat post-discounting model to a **performance-based discounting strategy** for each product and customer within every market.
+
+---
+
+## 🌍 Expand Market Presence
+
+- Expand distribution networks and targeted marketing efforts in high-growth regions such as **APAC**, with a particular focus on **India**.
+- Develop targeted strategies to increase market share in **North America**.
+- Focus on product differentiation to strengthen competitiveness in the **PC** segment and challenge dominant competitors such as **Dale**.
+
+---
+
+## 📦 Optimize Supply Chain
+
+- Improve demand forecasting by leveraging real-time data to minimize stock imbalances and enhance supply chain efficiency.
+- Align inventory planning and promotional activities with the **September–December** sales peak to maximize seasonal demand.
+
+---
+
+## 📈 Product & Marketing Strategy
+
+- Investigate the underperformance of **USB Flash Drives** and consider repositioning, discontinuing, or introducing improved product models.
+- Optimize marketing expenditure in the **UK** and **Germany** to improve return on investment (ROI).
+
+---
+# 📎 Links
+
+### 🌐 LinkedIn Post
+[View LinkedIn Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+
+### 📊 Live Dashboard
+[Open Power BI Dashboard](PASTE_YOUR_POWER_BI_SERVICE_LINK_HERE)
+
+---
+# 🧠 Skills Gained
+
+- Gained a deeper understanding of business metrics and their impact on a company's performance.
+- Designed insightful, user-centric Power BI dashboards.
+- Developed functional knowledge of **Finance, Sales, Marketing, and Supply Chain**, and their influence on overall business outcomes.
+
+---
+
